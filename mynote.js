@@ -5,8 +5,8 @@
         this.text = document.querySelector('textarea');
         this.button = document.querySelectorAll('button');
         this.initialize();
-    }
-
+    }//comment added
+        
     Notes.prototype = {
         initialize: function () {
             if(this.notes) {
