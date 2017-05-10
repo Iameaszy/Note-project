@@ -5,7 +5,7 @@
         this.text = document.querySelector('textarea');
         this.button = document.querySelectorAll('button');
         this.initialize();
-    }
+    }//Comment readded
 
     Notes.prototype = {
         initialize: function () {
