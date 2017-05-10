@@ -1,0 +1,38 @@
+body {
+    margin: 20px;
+    padding: 20px;
+    color: rgba(20, 100, 10, 0.3);
+}
+
+h1 {
+    margin-left: 40%
+}
+
+#container {
+    margin-right: auto;
+    margin-left: auto;
+    width: 25em;
+    padding: 5px;
+    background-color: green;
+}
+
+button {
+    background-color: black;
+    color: rgba(255, 255, 255, 1);
+    border: none;
+}
+
+.bt {
+    background-color: rgba(200, 20, 20, 1);
+    border: none;
+}
+
+#control {
+    margin-left: 2em;
+}
+
+textarea {
+    margin: 10px 0px 10px 5px;
+    min-height: 100px;
+    min-width: 29.5em;
+}
